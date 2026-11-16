@@ -1,0 +1,6 @@
+{
+  "name": "VORQEN: Ultimate Battle Arena",
+  "description": "3D open-world Battle Royale mobile & browser game featuring a multi-biome island, 50-combatant simulation, parachute drop, loot & loadout system, shrinking storm zone, and customizable 3D operators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
